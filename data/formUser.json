@@ -1,6 +1,6 @@
 {
-    "firstname" : "Gerimedica",
-    "lastname" : "BV",
+    "firstname" : "kanishka",
+    "lastname" : "choudhury",
     "email" : "test@test.com",
     "gender" : "Male",
     "mobile" : "0123456789",
@@ -8,7 +8,7 @@
     "Subjects" : "Chemistry",
     "Hobbies" : "Reading",
     "Picture" : "./data/testImg.svg",
-    "Address" : "Netherlands",
+    "Address" : "India",
     "State" : "NCR",
     "City" : "Delhi",
     "viewDob" : "15 January,1990"
