@@ -1,0 +1,15 @@
+{
+    "firstname" : "Gerimedica",
+    "lastname" : "BV",
+    "email" : "test@test.com",
+    "gender" : "Male",
+    "mobile" : "0123456789",
+    "dob" : "15 Jan 1990",
+    "Subjects" : "Chemistry",
+    "Hobbies" : "Reading",
+    "Picture" : "./data/testImg.svg",
+    "Address" : "Netherlands",
+    "State" : "NCR",
+    "City" : "Delhi",
+    "viewDob" : "15 January,1990"
+}

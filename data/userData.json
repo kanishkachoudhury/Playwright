@@ -1,0 +1,8 @@
+{
+    "firstname" : "Alden",
+    "lastname" : "Cantrell",
+    "age": "30",
+    "email" : "test@test.com",
+    "salary" : "123450",
+    "department" : "QA"
+}
